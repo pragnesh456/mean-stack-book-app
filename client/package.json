@@ -1,8 +1,8 @@
 {
   "name": "book-store-client",
   "version": "0.0.0",
-  "description": "Angular client for Book Store Web App",
-  "author": "GokulSreejith",
+  "description": "Angular client for Book",
+  "author": "Pragnesh Panchal",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

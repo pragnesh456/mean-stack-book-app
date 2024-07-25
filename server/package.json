@@ -1,10 +1,10 @@
 {
-  "name": "book-store-server",
+  "name": "book-app",
   "version": "0.1.0",
-  "description": "Express server for Book Store Web App",
+  "description": "Mean stack app",
   "main": "app.js",
   "keywords": [],
-  "author": "GokulSreejith",
+  "author": "Pragnesh Panchal",
   "scripts": {
     "start": "node app.js"
   },
